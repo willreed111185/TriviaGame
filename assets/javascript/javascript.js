@@ -68,7 +68,7 @@ var anatomy = {
         2:{question:"How many chromosomes are in a gamete?",
                 answer:1,
                 array:["25", "23", "46", "44"],
-                image:"stapes.gif",
+                image:"gamete.gif",
                 serial:"2.2",
         },
 };
